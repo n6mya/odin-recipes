@@ -1,0 +1,16 @@
+#page-title,
+.center {
+    text-align: center;
+}
+
+.center {
+    padding-left: 40px;
+}
+
+#recipes {
+    display: inline-block;
+    font-size: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 100px;
+}
