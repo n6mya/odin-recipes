@@ -3,6 +3,10 @@
     text-align: center;
 }
 
+#recipe-title {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
 .recipelist {
     padding-left: 40px;
 }
