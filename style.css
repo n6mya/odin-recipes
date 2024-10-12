@@ -7,6 +7,10 @@
     text-align: center;
 }
 
+.container {
+    margin-left: 20px;
+}
+
 .links {
     color: black;
     border: 2px dotted black;
